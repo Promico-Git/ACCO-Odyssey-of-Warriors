@@ -1,8 +1,3 @@
-#########################################################
-#### Author:Promise Ndiagwalu                       #####
-#### Project Name: A.C.C.O - Odyssey of Warriors    #####
-#########################################################
-
 import random
 import sys
 from backpack import Backpack
